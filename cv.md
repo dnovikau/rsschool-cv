@@ -1,15 +1,34 @@
-Name: Daniil Novikau
+## Name
 
-Additional Info: 
- email: novikaud@gmail.com
- skype: daniil_novikov1
+Daniil Novikau
 
-Goals: Improve skills in FE development
+## Additional Info
 
-Skills: JavaScript, Git, VSCode, Intellij Idea
+email: novikaud@gmail.com
+skype: daniil_novikov1
 
-Job Position: Software Engineering in Test
 
-Education: BSU MMF 2002
+## Goals
 
-English: Speaking/Writing - B1+
+Improve skills in FE development
+
+
+## Skills
+
+JavaScript, Git, VSCode, Intellij Idea
+
+
+## Job Position
+
+Software Engineering in Test
+
+
+## Education
+
+BSU MMF 2002
+
+
+## English
+
+Speaking - B1+
+Writing - B1+
